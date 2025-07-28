@@ -7,15 +7,15 @@ Education
 
 Skills
 ---------------------------------------------------------------------------------------------
-Programming Languages: Python, JAVA
-Web Frameworks: Flask, Django, HTML, CSS, JavaScript
-Mobile Development: Flutter
-Deep Learning Framework : Tensorflow, PyTorch, Keras
-Research Interest : Anomlay Detection, Recommendation System and Composed Image Retrival
+- Programming Languages: Python, JAVA
+- Web Frameworks: Flask, Django, HTML, CSS, JavaScript
+- Mobile Development: Flutter
+- Deep Learning Framework : Tensorflow, PyTorch, Keras
+- Research Interest : Anomlay Detection, Recommendation System and Composed Image Retrival
 
 Publish
 ---------------------------------------------------------------------------------------------
-| Titme                                                     | Autho                      | Journal / Conference                              | Year ------ |
+| Titme                                                     | Autho                      | Journal / Conference                              | Year        |
 |-----------------------------------------------------------|----------------------------|---------------------------------------------------|-------------|
 | A Top-N recommendation system for the shortest path to pet tourism in South Korea | H.-R. Ju, W.-S. Jeon, S.-Y. Rhee | International Journal of Fuzzy Logic and Intelligent Systems | 2025 |
 | Anomaly Periods Detection System for Injection Machine using TadGAN | H.-R. Ju, W.-S. Jeon, S.-Y. Rhee | The 13th International Conference on Smart Media & Applications (SMA) | 2024 |
